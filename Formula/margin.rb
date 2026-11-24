@@ -6,9 +6,9 @@
 class Margin < Formula
   desc "Git client with notes on branches, commits and tasks"
   homepage "https://github.com/wiggleji/margin"
-  url "https://github.com/wiggleji/margin/releases/download/v0.10.0/margin-0.10.0-linux-x64.tar.gz"
-  version "0.10.0"
-  sha256 "242186f2a921658b3ca77018e4e18c81e1baa0649a0813479133a4d1ae6c4295"
+  url "https://github.com/wiggleji/margin/releases/download/v0.10.1/margin-0.10.1-linux-x64.tar.gz"
+  version "0.10.1"
+  sha256 "455d123dfe69601e81cb99a8584d3a36b5dadf35e20630a9f38b4d8971265280"
   license "MIT"
 
   livecheck do
