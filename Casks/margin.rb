@@ -1,9 +1,9 @@
 # Homebrew cask for Margin, published to the wiggleji/homebrew-tap repository
-# by the Release workflow (0.8.1 and ae2c57c49fd46b7c0577f8b88561abc74f35ccbdd3c92a38519b876a1c225034 filled in for each release).
+# by the Release workflow, with the version and the DMG's SHA-256 filled in.
 #   brew install --cask wiggleji/tap/margin
 cask "margin" do
-  version "0.8.1"
-  sha256 "ae2c57c49fd46b7c0577f8b88561abc74f35ccbdd3c92a38519b876a1c225034"
+  version "0.8.2"
+  sha256 "e967077d68ce3d65da22e549368f246e12c0957da74fc1fa6a2ed8634307d040"
 
   url "https://github.com/wiggleji/margin/releases/download/v#{version}/Margin-#{version}.dmg"
   name "Margin"
