@@ -2,8 +2,8 @@
 # by the Release workflow, with the version and the DMG's SHA-256 filled in.
 #   brew install --cask wiggleji/tap/margin
 cask "margin" do
-  version "0.11.0"
-  sha256 "5374a28c0128556c9625243b16da5025ae5b5b8aed327125c162b73ee5c826f5"
+  version "0.11.1"
+  sha256 "26c5a7697725deb39224ea1642651de90c52ddbce69a264b6fe53be5ee375006"
 
   url "https://github.com/wiggleji/margin/releases/download/v#{version}/Margin-#{version}.dmg"
   name "Margin"
